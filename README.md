@@ -16,8 +16,8 @@ Following are thing i used here:
 
 1. Medical PDF ingestion & processing
 2. Text chunking with LangChain
-3. Semantic search using Pinecone Vector DB
-4. Google Generative AI Embeddings
+3. Semantic search using Pinecone Vector DB [Free]
+4. Google Generative AI Embeddings [Embedding size: 768].
 5. Response will get by using Groq LLaMA3-70B
 6. Backend developed by FastAPI
 7. RAG workflow
