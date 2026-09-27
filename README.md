@@ -22,3 +22,17 @@ Following are thing i used here:
 6. Backend developed by FastAPI
 7. RAG workflow
 8. Deployment on Render
+
+
+
+
+
+Development Steps:
+
+1. uv init
+2. uv venv
+3. .venv\Scripts\activate
+4. server: 
+5. client: 
+6. pip install -r requirements.txt
+7. streamlit run app.py
